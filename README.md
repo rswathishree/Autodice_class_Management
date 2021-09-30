@@ -29,3 +29,9 @@ Option to allocate a standards(1 to 12) and subjects (English, Hindi, Marathi, M
 	 An option to view total number of students in each standard
 4) Manage Department
  An option to view total number of teachers for each subject
+
+# About Me
+I am Swathi R,highly motivated, goal-driven,creative budding Enginner. I am currently Pursuing my Bachelor of Enginnering in Easwari Engineering college. I am a fast learner and a dedicated Person. I am very determined and actively looking up for opportunities to learn new things. Now, I am actively exploring the fields of Artificial Intelligence and Machine Learning.
+
+# Contact Links
+LinkedIn: https://www.linkedin.com/in/swathi-r-6760a41a9
